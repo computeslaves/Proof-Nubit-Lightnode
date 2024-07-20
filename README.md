@@ -1,14 +1,12 @@
 # Proof-Nubit-Lightnode
 Nubit Alpha Testnet Phase 2: Light Node Quest
 
-WHAT IS NUBIT?
-WHAT IS NUBIT?
 Founded by UCSB professor Yu Feng, Nubit leverages Bitcoin’s economic security to create a highly secure and scalable data availability layer. With substantial funding, including a major seed round led by Polychain Capital, and the integration of Zero-Knowledge technology, Nubit advances blockchain scalability to support unlimited applications in AI, SocialFi, and GameFi, etc. Nubit's innovative solutions unlock new possibilities across various sectors, ensuring unparalleled trust and reliability. As a leader in Bitcoin Season 2, Nubit has integrated its technology with major industry players and extends support to leading Layer 2 frameworks.
 
 ===========================================================================
 
 On June 24, 2024. Nubit Announced it's Phase 2 Campaign: Light Node Quest
-Where public are allowed to participate on Nubit's Node run https://x.com/nubit_org/status/1805239488723197974
+where public are allowed to participate on Nubit's Node run https://x.com/nubit_org/status/1805239488723197974
 
 ![image](https://github.com/user-attachments/assets/375fbca9-c1a2-47ab-b59b-3370fa2c0f20)
 
