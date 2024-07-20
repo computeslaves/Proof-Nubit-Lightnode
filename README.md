@@ -14,7 +14,6 @@ We can see the Quest here https://alpha.nubit.org & See the Nubit's documentatio
 
 ===========================================================================
 
-MY PROOF OF NODE
 Run on VPS, my specification for running the Nubit Light Node:
 Ubuntu 22.0
 Core 8
