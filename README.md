@@ -16,11 +16,11 @@ We can see the Quest here https://alpha.nubit.org & See the Nubit's documentatio
 
 Run on VPS, my specification for running the Nubit Light Node:
 Ubuntu 22.0
-Core 8
-Ram 24
-Storage 300Gb NVME
+2 Core
+Ram 8 GiB
+Storage 100GiB SSD
 
-![image](https://github.com/user-attachments/assets/70ac92a1-d0fa-4654-b95b-9704680f2a1d)
+![image](https://github.com/user-attachments/assets/994d6ae6-5d11-43ce-bd0e-ddebcd185dd6)
 
 And this is my PROOF of running the Quest:
 ![image](https://github.com/user-attachments/assets/b577b4d3-bf4c-4c13-9e61-d321ef5726b3)
